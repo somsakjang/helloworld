@@ -1,0 +1,3 @@
+https://github.com/CodeSeven/toastr
+
+https://devdojo.com/blog/how-to/toastr-notifications-in-your-laravel-app
